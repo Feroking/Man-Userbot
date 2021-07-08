@@ -27,6 +27,7 @@ METOOSTR = [
     "Sama Sini",
     "Haha Iya",
     "Aku Juga",
+    "Knp",
 ]
 
 ZALG_LIST = [
